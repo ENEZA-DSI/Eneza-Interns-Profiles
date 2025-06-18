@@ -1,3 +1,5 @@
+![ICIPE PASSPORT PHOTO](https://github.com/user-attachments/assets/9939ae9b-f1ba-45ce-9c04-b887792aaf21)
+
 # Eneza-Interns-Profiles
 
 Highlights the Profiles of Interns trained under the Eneza program. It highlights their educational backgrounds, skills, projects, and career aspirations. The program aims to equip interns with practical knowledge in data science.
@@ -34,5 +36,5 @@ Highlights the Profiles of Interns trained under the Eneza program. It highlight
 - **Malaria Surveillance**: Effective interventions in Kenya.
 
 ### Career Aspirations:
-- Pursue a Master’s degree in Applied Epidemiology.  
+- Pursue a Master’s degree in Applied Epidemiology/Public Health.  
 - Undertake a Ph.D. in Digital Health and Health Informatics.
