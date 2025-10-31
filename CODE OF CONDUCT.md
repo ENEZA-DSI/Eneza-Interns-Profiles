@@ -1,15 +1,15 @@
-# Bioinformatics Group at MBBU  Code of Conduct
+# ENEZA Data Science Group Code of Conduct
 
 ## Welcome!! Karibu
 We are excited to have you on board. 
 
 *The following document has been adapted from the [MBBU Code of Conduct](https://github.com/mbbu/Onboarding/blob/master/CODE_OF_CONDUCT.md).*
 
-## The Bioinformatics Group at MBBU is committed to an harassment-free policy
-We value the participation of every member of our community and want to ensure that every member has enjoyable and fulfilling learning and working experience. Accordingly, everyone who participates in any Bioinformatics Group project is expected to show respect and courtesy to other members at all time.
+## The ENEZA Data Science Group is committed to an harassment-free policy
+We value the participation of every member of our community and want to ensure that every member has enjoyable and fulfilling learning and working experience. Accordingly, everyone who participates in any Group project is expected to show respect and courtesy to other members at all time.
 
 To make clear what is expected, all members of the Bioinformatics Unit(including myself) must conform to the following Code of Conduct:
-The MBBU leadership and all Bioinformatics group members are dedicated to a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, race, national origin, age or religion. We do not tolerate harassment by and/or of members of our community in any form.
+The ENEZA leadership and all Bioinformatics group members are dedicated to a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, race, national origin, age or religion. We do not tolerate harassment by and/or of members of our community in any form.
 
 **In summary:**  
 * All communication – online and in-person – should be appropriate for a professional audience, including people of many different backgrounds. 
@@ -20,7 +20,7 @@ The MBBU leadership and all Bioinformatics group members are dedicated to a hara
 * Remember that harassment and sexist, racist, or exclusionary jokes will not be tolerated in this space. 
 
 Participants asked to stop any harassing, or disrespectful behaviour is expected to comply immediately.
-Members of the Bioinformatics Group who violate these rules – no matter how much they have contributed to the group, or how specialized their skill set – will be approached by Caleb Kibet. If inappropriate behaviour persists after a discussion with Caleb Kibet, the perpetrator will be asked to discontinue their participation in Bioinformatics unit projects.
+Members of the Bioinformatics Group who violate these rules – no matter how much they have contributed to the group, or how specialized their skill set – will be approached by Jackline Wahura. If inappropriate behaviour persists after a discussion with Jackline Wahura, the perpetrator will be asked to discontinue their participation in Bioinformatics unit projects.
 
 To report a violation, you can do any of the following:
 * Please feel free to talk to me if the abuse is perpetrated by any other laboratory member that is not myself
